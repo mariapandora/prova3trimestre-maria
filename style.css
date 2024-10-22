@@ -1,0 +1,31 @@
+body {
+    background-color:beige;
+    margin: opx;
+}
+
+.girafa {
+     font-style: italic;
+    color: rgb(177, 30, 10);
+}
+
+.Lindo {
+    width: 50%;
+}
+h1{
+    text-align: center;
+    padding: 5;
+}
+h2{
+   text-align: center;
+}
+h3{
+    text-align: left; margin: 60%;
+}
+section {
+    background: rgb(112, 45, 45);
+    margin-top: 5;
+    display: flex;
+    font-size: 20;
+    justify-content: center;
+  }
+  
