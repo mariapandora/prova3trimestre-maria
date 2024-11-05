@@ -20,7 +20,9 @@ h2{
 }
 h3{
     text-align: center; 
-    margin: 0%;
+    margin: 10%;
+    color: brown;
+    
 }
 section {
     background: rgb(112, 45, 45);
